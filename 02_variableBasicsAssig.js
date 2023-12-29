@@ -7,9 +7,9 @@ var pinCode = 410210;
 var srNo = 34;
 var hNo = 35;
 
-console.log("Pin Code:    ", pinCode, ", Data type:", typeof pinCode);
-console.log("Sr Number:   ", srNo, ",      Data type:", typeof srNo);
-console.log("House Number:", hNo, ",    Data type:", typeof hNo);
+console.log("Pin Code:    ", pinCode, ",   Data type:", typeof pinCode);
+console.log("Sr Number:   ", srNo, ",       Data type:", typeof srNo);
+console.log("House Number:", hNo, ",       Data type:", typeof hNo);
 
 console.log("");
 console.log("----------------------String Data Type------------------------");
@@ -20,8 +20,8 @@ var mName = "Suresh";
 var lName = "Mohite";
 
 console.log("First Name: ", fName, ",    Data type:", typeof fName);
-console.log("Mid Name:   ", mName, ",   Data type:", typeof mName);
-console.log("Last Name:  ", lName, ",    Data type:", typeof lName);
+console.log("Mid Name:   ", mName, ",     Data type:", typeof mName);
+console.log("Last Name:  ", lName, ",     Data type:", typeof lName);
 
 console.log("");
 console.log("----------------------Boolean Data Type------------------------");
@@ -33,7 +33,7 @@ var pass = true;
 
 console.log("Placement: ", placement, ",    Data type:", typeof placement);
 console.log("Married:   ", married, ",    Data type:", typeof married);
-console.log("Pass:      ", lName, ",    Data type:", typeof pass);
+console.log("Pass:      ", lName, ",   Data type:", typeof pass);
 
 console.log("");
 console.log(
