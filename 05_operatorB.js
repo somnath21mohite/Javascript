@@ -5,8 +5,8 @@ function greaterNumber(n1,n2){
     var largest = Math.max(n1,n2);
     console.log(`The greater number is  ${largest}`);
 }
-greaterNumber(10,-10)
-greaterNumber(800,899)
+greaterNumber(10,-10);
+greaterNumber(800,899);
 
 console.log("");
 console.log("============================ STEP 2 ===========================");
@@ -28,7 +28,7 @@ console.log("");
 
 function wordLength(word){
     var result = word.length ;
-    var resultValue = result % 2 == 0 ? "EVEN " : "ODD" ;   
+    var resultValue = result % 2 == 0 ? "EVEN" : "ODD" ;   
     console.log(` Given Words Lenght is : ${ word.length} =>"${ resultValue}"`);
     
 }
