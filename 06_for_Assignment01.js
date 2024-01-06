@@ -17,7 +17,7 @@ console.log("Find first 15 odd number");{
     console.log(index);
 }
 console.log("Find first 10 even number");{
-for( var index=0; index<=10; index=index+2)
+for( var index=2; index<=10; index=index+2)
    console.log(index);
 
 }
