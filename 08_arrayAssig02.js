@@ -19,6 +19,7 @@ for (const evenNumber of arrayNum) {
         console.log("The even number is:",evenNumber);  
 }
 }
+
 console.log("<====================== STEP 5 =====================>");
 const array_Num = [20,31,40,25,23,11,29,9,60,2,11];
 let oddNumber = 0;
