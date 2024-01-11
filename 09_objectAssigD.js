@@ -40,14 +40,14 @@ console.log(addOne.certificates);
 
 console.log("<===================== STEP 7 ======================>");
 console.log("Log the last element of the array:");
-console.log(addOne.certificates.pop());
+console.log(addOne.certificates[addOne.certificates.length-1]);
 
 console.log("<===================== STEP 8 ======================>");
 console.log(professor);
 
 console.log("<===================== STEP 9 ======================>");
 console.log("<== Traverse array ==>");
-for (let index = 0; index <addOne.certificates .length; index++) {
-    const element = addOne.certificates[index];
+for (const element of addOne.certificates) {
     console.log(element);
+    
 }
