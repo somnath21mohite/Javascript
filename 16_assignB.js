@@ -60,7 +60,6 @@ for (const element of arryEmployee) {
     );
   }
 }
-
 //Find the emp's whose salary greater then or equal 50000 and from 'IT' department ,log complete emp details on console
 console.log("<===================== STEP 5 ==========================>");
 for (const element of arryEmployee) {
@@ -68,7 +67,6 @@ for (const element of arryEmployee) {
     element.getDetails();
   }
 }
-
 //Find out all the employees from company 'Infy' and log complete employee details on console
 console.log("<===================== STEP 6 ==========================>");
 for (const element of arryEmployee) {
