@@ -1,5 +1,5 @@
-var element = document.getElementById('Profile');
-element.style.color = 'Orange';
+const element = document.getElementById('Profile');
+element.style.color = 'red';
 
 
 const projectDescription = document.querySelector('#project');
