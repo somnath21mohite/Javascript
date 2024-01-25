@@ -1,0 +1,76 @@
+
+.container{
+    width: 800px;
+    height: 300px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin: 10px auto;
+    margin-top: 50px;
+ background-color: rgb(104, 101, 101); 
+text-align: center;
+}
+.result{
+    margin-top: 20px;
+    text-align: center;
+}
+.inputFields{
+    margin-top: 20px;
+}
+#button{
+    display: block;
+    margin-top: 50px;
+}
+#addition{
+    color: cadetblue;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px;
+    margin-right: 20px;
+    border: 2px solid orange;
+    margin-top: 20px;
+}
+#subtraction{
+    color: cadetblue;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px;
+    margin-right: 20px;
+    border: 2px solid orange;
+    margin-top: 20px;
+}
+#multiplication{
+    color: cadetblue;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px;
+    border: 2px solid orange;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#divide{
+    color: cadetblue;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px;
+    margin-right: 20px;
+    border: 2px solid orange;
+    margin-top: 20px;
+}
+label{
+   color: rgb(13, 239, 247); 
+   font-size: 20PX;
+   font-weight: bold;
+}
+.field {
+    border: 2px solid orangered;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 15px;
+}
+.result{
+    font-size: 25px;
+}
